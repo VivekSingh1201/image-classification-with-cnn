@@ -1,0 +1,23 @@
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+DLenv312/
+
+# Model files
+*.keras
+*.h5
+*.hdf5
+
+# macOS
+.DS_Store
+X
+X
