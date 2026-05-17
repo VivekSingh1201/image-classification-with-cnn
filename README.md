@@ -1,4 +1,4 @@
-# CIFAR-10 CNN Hyperparameter Study
+# Experimental CNN hyperparameter study with architecture comparison and performance analysis
 
 A deep learning project focused on image classification using Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset, with comparative experimentation on key hyperparameters such as stride size and convolution kernel size.
 
